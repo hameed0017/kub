@@ -26,5 +26,4 @@ spec:
               exec:
                 command: ["/usr/sbin/nginx","-s","quit"]
 
-   env:
-    TRACKING-BASE-URL: "http://golang-backend-service.golang-backend/api/apps/v1/"
+  
